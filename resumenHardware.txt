@@ -1,0 +1,4 @@
+Memorias Principales de la Computadora
+1.- Memoria RAM
+2.- Cache
+3.- ROM

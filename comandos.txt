@@ -1,0 +1,24 @@
+  480  git init
+  481  git status
+  482  git remote add origin https://github.com/crack708/20230605-AlbertoSoriano.git
+  483  git remote -v
+  484  touch comandos.txt main.js index.html
+  485  git add .
+  486  git commit -m "commit 01 de AlbertoSoriano"
+  487  git push origin main
+  488  git branch feature
+  489  git checkout feature
+  490  mkdir Hardware Software SeguridadInformatica
+  491  ls
+  492  touch ./Hardware/resumen.txt ./Software/resumen.txt ./SeguridadInformatica/resumen.txt
+  493  ls -R
+  494  git add .
+  495  git commit -m "commit 02 de AlbertoSoriano"
+  496  git push origin feature
+  497  git checkout main
+  498  ls
+  499  help ?
+  500  mv main.js resumenHardware.txt
+  501  ls
+  502  mv index.html resumenSoftware.txt
+  503  history
